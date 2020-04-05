@@ -1,0 +1,29 @@
+{
+  "name": "telemedicine",
+  "version": "1.0.0",
+  "description": "Telimedicine app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaleshkk/telemedicine.git"
+  },
+  "keywords": [
+    "telemedicine"
+  ],
+  "author": "kalesh kannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaleshkk/telemedicine/issues"
+  },
+  "homepage": "https://github.com/kaleshkk/telemedicine#readme",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "connect": "^3.7.0",
+    "ejs": "2.x",
+    "express": "4.x",
+    "express.io": "1.x"
+  }
+}
